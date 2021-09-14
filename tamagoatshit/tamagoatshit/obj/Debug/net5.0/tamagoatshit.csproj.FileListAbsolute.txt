@@ -1,0 +1,16 @@
+C:\Users\malte.nordlof\Documents\Prog\Tamagoatshit2\tamagoatshit\tamagoatshit\bin\Debug\net5.0\tamagoatshit.exe
+C:\Users\malte.nordlof\Documents\Prog\Tamagoatshit2\tamagoatshit\tamagoatshit\bin\Debug\net5.0\tamagoatshit.deps.json
+C:\Users\malte.nordlof\Documents\Prog\Tamagoatshit2\tamagoatshit\tamagoatshit\bin\Debug\net5.0\tamagoatshit.runtimeconfig.json
+C:\Users\malte.nordlof\Documents\Prog\Tamagoatshit2\tamagoatshit\tamagoatshit\bin\Debug\net5.0\tamagoatshit.runtimeconfig.dev.json
+C:\Users\malte.nordlof\Documents\Prog\Tamagoatshit2\tamagoatshit\tamagoatshit\bin\Debug\net5.0\tamagoatshit.dll
+C:\Users\malte.nordlof\Documents\Prog\Tamagoatshit2\tamagoatshit\tamagoatshit\bin\Debug\net5.0\ref\tamagoatshit.dll
+C:\Users\malte.nordlof\Documents\Prog\Tamagoatshit2\tamagoatshit\tamagoatshit\bin\Debug\net5.0\tamagoatshit.pdb
+C:\Users\malte.nordlof\Documents\Prog\Tamagoatshit2\tamagoatshit\tamagoatshit\obj\Debug\net5.0\tamagoatshit.csproj.AssemblyReference.cache
+C:\Users\malte.nordlof\Documents\Prog\Tamagoatshit2\tamagoatshit\tamagoatshit\obj\Debug\net5.0\tamagoatshit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malte.nordlof\Documents\Prog\Tamagoatshit2\tamagoatshit\tamagoatshit\obj\Debug\net5.0\tamagoatshit.AssemblyInfoInputs.cache
+C:\Users\malte.nordlof\Documents\Prog\Tamagoatshit2\tamagoatshit\tamagoatshit\obj\Debug\net5.0\tamagoatshit.AssemblyInfo.cs
+C:\Users\malte.nordlof\Documents\Prog\Tamagoatshit2\tamagoatshit\tamagoatshit\obj\Debug\net5.0\tamagoatshit.csproj.CoreCompileInputs.cache
+C:\Users\malte.nordlof\Documents\Prog\Tamagoatshit2\tamagoatshit\tamagoatshit\obj\Debug\net5.0\tamagoatshit.dll
+C:\Users\malte.nordlof\Documents\Prog\Tamagoatshit2\tamagoatshit\tamagoatshit\obj\Debug\net5.0\ref\tamagoatshit.dll
+C:\Users\malte.nordlof\Documents\Prog\Tamagoatshit2\tamagoatshit\tamagoatshit\obj\Debug\net5.0\tamagoatshit.pdb
+C:\Users\malte.nordlof\Documents\Prog\Tamagoatshit2\tamagoatshit\tamagoatshit\obj\Debug\net5.0\tamagoatshit.genruntimeconfig.cache
